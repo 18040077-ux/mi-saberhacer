@@ -1,12 +1,27 @@
 [
     {
         "numero_empleado": "18040077",
-        "nombre": "alejandro orosco",
-        "especialidad": "redes"
+        "nombre": "alejandro guadalupe orosco garcia",
+        "especialidad": "redes inteligentes"
     },
     {
         "numero_empleado": "18040078",
-        "nombre": "edson",
-        "especialidad": "redes"
+        "nombre": "edosn arriaga",
+        "especialidad": "redes inteligentes"
+    },
+    {
+        "numero_empleado": "18040079",
+        "nombre": "alan ricardo",
+        "especialidad": "redes inteligentes"
+    },
+    {
+        "numero_empleado": "18040080",
+        "nombre": "carlos  zapata",
+        "especialidad": "redes inteligentes"
+    },
+    {
+        "numero_empleado": "18040081",
+        "nombre": "carlos garcia",
+        "especialidad": "redes inteligentes"
     }
 ]
