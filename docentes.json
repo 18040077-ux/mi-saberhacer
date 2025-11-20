@@ -1,12 +1,17 @@
 [
     {
-        "numero_empleado": "18040077",
-        "nombre": "alejandro orosco",
-        "especialidad": "redes"
+        "numero_empleado": "1",
+        "nombre": "gabriel",
+        "especialidad": "entornos"
     },
     {
-        "numero_empleado": "18040078",
-        "nombre": "edson",
+        "numero_empleado": "2",
+        "nombre": "paty",
+        "especialidad": "desarrollo de software"
+    },
+    {
+        "numero_empleado": "3",
+        "nombre": "leandro",
         "especialidad": "redes"
     }
 ]
